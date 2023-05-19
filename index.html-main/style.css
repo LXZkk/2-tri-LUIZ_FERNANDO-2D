@@ -3,10 +3,22 @@
 }
 
 body{
-    background-color:var(--cor-de-fundo);
+    background: rgb(53, 53, 53)
 }
-h1{
+.h1{
     background-color: blueviolet;
-    text-decoration-color: rgb(121, 9, 9);
-    text-size-adjust: 96%;
+   
+}
+.header {
+color:rgb(3, 252, 78);
+ display: block;   
+ padding: 100px solid;
+text-align-last: center;
+font-size: 90px;
+background-color: rgba(5, 5, 71, 0.897);
+}
+.item-menu {
+font-size: 50px;
+color: rgb(0, 245, 253);
+
 }
